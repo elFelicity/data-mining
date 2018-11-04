@@ -1,0 +1,2 @@
+Estado,Año Registro,Sexo,Población Niños,Defunciones Niños,Mortalidad Niños,Población Adolescentes,Defunciones Adolescentes,Mortalidad,País
+Baja California,?,Mujer,149462,9,13.03,390588,19,13.59,?

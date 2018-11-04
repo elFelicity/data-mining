@@ -1,0 +1,28 @@
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.PrincipalForm.resources
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\obj\Debug\Proyecto.PrincipalForm.resources
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Carlos Garibay\Documents\7mo Semestre\Mineria de datos\Proyecto\Pruebas\Proyecto (leeAutomatico)\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\obj\Debug\Proyecto.PrincipalForm.resources
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Jorge\Documents\Proy\Minería\Proyecto\obj\Debug\Proyecto.pdb
